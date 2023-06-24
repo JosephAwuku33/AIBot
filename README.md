@@ -6,7 +6,7 @@
 Tried experimenting with the OpenAI GPT model to create an interactive chatbot react native application
 
 
-##  Features
+##  Tech Stack
 - Uses React-Native Gifted Chat Library to display chat messages
 - Uses the axios library for making and sending requests
 
