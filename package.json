@@ -14,9 +14,11 @@
     "expo": "~48.0.5",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
-    "react-native": "0.71.3",
+    "react-native": "0.71.8",
     "react-native-dotenv": "^3.4.8",
-    "react-native-gifted-chat": "^2.1.0"
+    "react-native-gifted-chat": "^2.1.0",
+    "react-native-mathjax-html-to-svg": "^1.1.0",
+    "react-native-svg": "13.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
