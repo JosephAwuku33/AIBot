@@ -2,6 +2,8 @@
   "name": "mathgpt",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
+  "author": "Joseph Amoako Awuku",
+  "license": "MIT",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -17,8 +19,10 @@
     "react-native": "0.71.8",
     "react-native-dotenv": "^3.4.8",
     "react-native-gifted-chat": "^2.1.0",
+    "react-native-mathjax": "^2.1.2",
     "react-native-mathjax-html-to-svg": "^1.1.0",
-    "react-native-svg": "13.4.0"
+    "react-native-svg": "13.4.0",
+    "react-native-webview": "^13.6.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
