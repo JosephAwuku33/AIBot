@@ -9,6 +9,7 @@ Tried experimenting with the OpenAI GPT model to create an interactive chatbot r
 ##  Tech Stack
 - Uses React-Native Gifted Chat Library to display chat messages
 - Uses the axios library for making and sending requests
+- Makes use of MathJax and Latex in formatting of math expressions
 
 ## Screenshots
 <img src="https://github.com/JosephAwuku33/AIBot/blob/master/assets/screenshots/first_pic.jpg" width="320" height="640"/>
